@@ -1,0 +1,6 @@
+﻿  DeletePartOFStroke.cpp
+C:\Users\gabon\source\repos\DeletePartOFStroke\DeletePartOFStroke\DeletePartOFStroke.cpp(45,3): warning C4102: b2: неиспользованная метка
+C:\Users\gabon\source\repos\DeletePartOFStroke\DeletePartOFStroke\DeletePartOFStroke.cpp(48,1): warning C4102: b3: неиспользованная метка
+C:\Users\gabon\source\repos\DeletePartOFStroke\DeletePartOFStroke\DeletePartOFStroke.cpp(52,1): warning C4102: b4: неиспользованная метка
+C:\Users\gabon\source\repos\DeletePartOFStroke\DeletePartOFStroke\DeletePartOFStroke.cpp(57,1): warning C4102: b5: неиспользованная метка
+  DeletePartOFStroke.vcxproj -> C:\Users\gabon\source\repos\DeletePartOFStroke\Debug\DeletePartOFStroke.exe
